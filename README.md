@@ -1,5 +1,15 @@
-## Welcome to GitHub Pages
+# Face masks in the time of COVID-19
 
+This website summarize the information I have seen about buying face masks in the US. Some of the information in this page is translated from a very nice [blog post](https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/) that I read recently.
+
+## Why wearing face masks is important
+Many people may think that only people who are sick or caring for the sick need to wear face masks. But, it is important ot konw that the virus can spread before people show symptoms and that there are many asyptomatic people that pose a risk of transmition. Many reserach has shown that 
+
+Here a nice article on New York Times on why we should wear face masks.
+
+## When and what kind of facemasks to wear
+
+## How to buy facemasks in the US
 
 Ali
 https://www.alibaba.com/protective-equipment
@@ -15,6 +25,9 @@ http://en.nhc.gov.cn/2020-02/07/c_76344.htm
 
 Be aware of fake masks
 https://www.cdc.gov/niosh/npptl/usernotices/counterfeitResp.html
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Rxie9596/facemask/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
