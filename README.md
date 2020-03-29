@@ -3,13 +3,21 @@
 This website summarize the information I have seen about buying face masks in the US. Some of the information in this page is translated from a very nice [blog post](https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/) that I read recently.
 
 ## Why wearing face masks is important
-Many people may think that only people who are sick or caring for the sick need to wear face masks. But, it is important ot konw that the virus can spread before people show symptoms and that there are many asyptomatic people that pose a risk of transmition. Many reserach has shown that 
+Many people may think that only people who are sick or caring for the sick need to wear face masks. But it is important to konw that the virus can spread [before people show symptoms](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) and that there might be many asymptomatic cases that pose a risk of transmition. Studies of influenza and SARS has shown that wearing face masks can reduce the risk of getting the disease. Here a nice article on New York Times on why we should wear face masks.
+[https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html](https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html)
 
-Here a nice article on New York Times on why we should wear face masks.
+_Note: This is very nice article and I agree with much of it. However, at some point in this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating information about COVID-19 to the general public and people are well aware of asymptomatic cases._
 
 ## When and what kind of facemasks to wear
 
+Here is a nice guide on when and what kind of face masks to wear:
+[http://en.nhc.gov.cn/2020-02/07/c_76344.htm](http://en.nhc.gov.cn/2020-02/07/c_76344.htm)
+
 ## How to buy facemasks in the US
+
+###
+
+### 
 
 Ali
 https://www.alibaba.com/protective-equipment
@@ -17,11 +25,8 @@ https://www.alibaba.com/protective-equipment
 https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/
 
 Why wearing face mask is important
-https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html?referringSource=articleShare
-The classified document is not true.
 
-Guide on using face masks:
-http://en.nhc.gov.cn/2020-02/07/c_76344.htm
+
 
 Be aware of fake masks
 https://www.cdc.gov/niosh/npptl/usernotices/counterfeitResp.html
