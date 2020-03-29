@@ -23,10 +23,11 @@ Face masks in local pharmacies may in short supply, but I know some stores are t
 
 Some stores to get face masks:
 
-- [CVS](https://www.cvs.com)
+* [CVS](https://www.cvs.com)
+
 Some face masks that you can get at CVS.
-* [CVS Health Procedural Face Masks With Earloops](https://www.cvs.com/shop/cvs-health-procedural-face-masks-with-earloops-prodid-310410)
-* [CVS Health Cone Face Masks, 10 CT](https://www.cvs.com/shop/cvs-health-cone-face-masks-10-ct-prodid-2220209)
+- [CVS Health Procedural Face Masks With Earloops](https://www.cvs.com/shop/cvs-health-procedural-face-masks-with-earloops-prodid-310410)
+- [CVS Health Cone Face Masks, 10 CT](https://www.cvs.com/shop/cvs-health-cone-face-masks-10-ct-prodid-2220209)
 
 
 
