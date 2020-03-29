@@ -3,9 +3,12 @@
 This website summarize the information I have seen about buying face masks in the US. Some of the information in this page is translated from a very nice [blog post](https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/) that I read recently.
 
 ## Why wearing face masks is important
-Many people may think that only people who are sick or caring for the sick need to wear face masks. But it is important to konw that the virus can spread [before people show symptoms](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) and that there might be many asymptomatic cases that pose a risk of transmition. Studies of influenza and SARS has shown that wearing face masks can reduce the risk of getting the disease. Here a nice article on New York Times on why we should wear face masks even if we are not sick.
+Many people may think that only people who are sick or caring for the sick need to wear face masks. But it is important to konw that the virus can spread [before people show symptoms](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) and that there might be many asymptomatic cases that pose a risk of transmition. Studies of influenza and SARS has shown that wearing face masks can reduce the risk of getting the disease. 
+
+Here is a nice article on New York Times on why we should wear face masks even if we are not sick.
 [https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html](https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html)
-And here is a commentary on Science that provide information to help you decide 
+
+And here is a commentary on Science that provide more information to help you decide 
 [https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic#](https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic#)
 
 _Note: This is very nice article and I agree with much of it. However, at some point this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating accurate information about COVID-19 to the general public and people are well aware of asymptomatic cases._
