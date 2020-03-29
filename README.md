@@ -11,7 +11,7 @@ Here is a nice article on New York Times on why we should wear face masks even i
 And here is a commentary on Science that provide more information to help you decide 
 [https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic#](https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic#)
 
-_Note: This is very nice article and I agree with much of it. However, at some point this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating accurate information about COVID-19 to the general public and people are well aware of asymptomatic cases._
+_Note: The New York Times article is very nice article and I agree with much of it. However, at some point this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating accurate information about COVID-19 to the general public and people are well aware of asymptomatic cases._
 
 ## When and what kind of facemasks to wear
 
