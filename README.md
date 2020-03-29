@@ -13,6 +13,8 @@ The classified document is not true.
 Guide on using face masks:
 http://en.nhc.gov.cn/2020-02/07/c_76344.htm
 
+Be aware of fake masks
+https://www.cdc.gov/niosh/npptl/usernotices/counterfeitResp.html
 
 You can use the [editor on GitHub](https://github.com/Rxie9596/facemask/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
