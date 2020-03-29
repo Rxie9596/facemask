@@ -1,5 +1,22 @@
 ## Welcome to GitHub Pages
 
+
+阿里巴巴
+PC页面：
+https://www.alibaba.com/protective-equipment
+
+https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/
+
+
+
+Why wearing face mask is important
+https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html?referringSource=articleShare
+The classified document is not true.
+
+Guide on using face masks:
+http://en.nhc.gov.cn/2020-02/07/c_76344.htm
+
+
 You can use the [editor on GitHub](https://github.com/Rxie9596/facemask/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
