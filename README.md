@@ -1,13 +1,10 @@
 ## Welcome to GitHub Pages
 
 
-阿里巴巴
-PC页面：
+Ali
 https://www.alibaba.com/protective-equipment
 
 https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/
-
-
 
 Why wearing face mask is important
 https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html?referringSource=articleShare
