@@ -6,26 +6,34 @@ This website summarize the information I have seen about buying face masks in th
 Many people may think that only people who are sick or caring for the sick need to wear face masks. But it is important to konw that the virus can spread [before people show symptoms](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) and that there might be many asymptomatic cases that pose a risk of transmition. Studies of influenza and SARS has shown that wearing face masks can reduce the risk of getting the disease. Here a nice article on New York Times on why we should wear face masks.
 [https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html](https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html)
 
-_Note: This is very nice article and I agree with much of it. However, at some point in this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating information about COVID-19 to the general public and people are well aware of asymptomatic cases._
+_Note: This is very nice article and I agree with much of it. However, at some point this artile cited a report that said somthing like "classified data from the Chinese government indicated that a third of people tested positive could be silent carriers." I don't believe that's classified. I think the Chinese government has done a great job of communicating accurate information about COVID-19 to the general public and people are well aware of asymptomatic cases._
 
 ## When and what kind of facemasks to wear
 
 Here is a nice guide on when and what kind of face masks to wear:
 [http://en.nhc.gov.cn/2020-02/07/c_76344.htm](http://en.nhc.gov.cn/2020-02/07/c_76344.htm)
 
-## How to buy facemasks in the US
+## How to buy facemasks (and other PPE) in the US
 
-###
+### Local stores
+
+Face masks in local pharmacies may in short supply, but I know some stores are taking replenishment every week. So it is still possible to get masks at local store. Just remember to:
+* Find out when pharmacies restock
+* Check whether it is available through the website or by calling in advance
+
+Some stores to get face masks:
+
+- [CVS](https://www.cvs.com)
+Some face masks that you can get at CVS.
+* [CVS Health Procedural Face Masks With Earloops](https://www.cvs.com/shop/cvs-health-procedural-face-masks-with-earloops-prodid-310410)
+* [CVS Health Cone Face Masks, 10 CT](https://www.cvs.com/shop/cvs-health-cone-face-masks-10-ct-prodid-2220209)
+
+
 
 ### 
 
 Ali
 https://www.alibaba.com/protective-equipment
-
-https://www.uscreditcards101.com/how-to-get-face-mask-in-usa/
-
-Why wearing face mask is important
-
 
 
 Be aware of fake masks
